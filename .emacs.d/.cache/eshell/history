@@ -1,0 +1,57 @@
+cd ..
+ls .
+ls -al
+export PYTHONPATH = /usr/local/Cellar/vtk/7.1.0_1/lib:/usr/local/Cellar/vtk/7.1.0_1/lib/python2.7:$PYTHONPATH
+export LD_LIBRARY_PATH=/usr/local/Cellar/vtk/7.1.0_1/lib:$LD_LIBRARY_PATH
+anaconda
+ls .
+Launcher
+Launcher.app
+cd ~
+ls .
+conda list
+pip install vpython
+conda
+ps 
+ls .
+cd pyPdf-1.13/ls .
+cd pyPdf-1.13/
+ls .
+python
+python setup.py
+pip install
+pip install pyPdf
+cd ..
+ls .
+cd ..
+ls .
+cd Documents
+ls .
+python -i pdfnamechange
+python -i pdfnamechange.py
+python -i pdfnamechange.py 
+man du
+du -s 
+du -m 
+data
+date
+echo $shell 
+echo $SHELL
+who
+cd /usr/local/Cellar/vtk/
+ls .
+cd ~
+ls .
+cd Downloads/
+ls .
+cp R.matlab_3.6.1.tgz /Library/Frameworks/R.framework/Versions/3.3/Resources/library/ 
+cd /Library/Frameworks/R.framework/Versions/3.3/Resources/library/
+ls .
+cd /
+ls .
+cp ~\Documents\matlab-vtk\matlab-01-05-17.mat /Library/Frameworks/R.framework/Versions/3.3/Resources/library/R.matlab
+cp ~\Documents\matlab-vtK\matlab-01-05-17.mat /Library/Frameworks/R.framework/Versions/3.3/Resources/library/R.matlab
+cp ~/Documents/matlab-vtK/matlab-01-05-17.mat  /Library/Frameworks/R.framework/Versions/3.3/Resources/library/R.matlab
+cp ~/Documents/matlab-vtK/matlab-01-05-17.mat  /Library/Frameworks/R.framework/Versions/3.3/Resources/library/R.matlab/mat-files/ 
+offlineimap 
+ mu index --maildir=~/Maildiroff/

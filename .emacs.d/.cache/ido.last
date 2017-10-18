@@ -1,0 +1,40 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/liw17/Documents/" . "NoMachine/")
+ ("/Users/liw17/" . "Documents/")
+ ("/Users/" . "liw17/")
+ ("/" . "Users/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/liw17/Documents/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "fastxlicense.txt"
+ "emacslog.txt"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/liw17/" (22861 8530 0 0) "百度云同步盘/" "VSG/" "VirtualBox VMs/" "Untitled.txt" "Sites/" "Public/" "projectschedulepaper.org" "Pictures/" "octave/" "News/" "Music/" "Movies/" "Maildiroff/" "Maildir/" "Lightworks/" "Library/" "java.log.50717" "java.log.17928" "HelloWorld.java" "export_40x 3D lymph node_CD3.csv" "Dropbox (image)/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "AT.postflight.45106" "Applications/" "anaconda/" "10-31.java" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-D1959712-5.0.8" ".z" ".Xauthority" ".viminfo" ".Trash/" ".thumbnails/" ".TeXmacs/" ".swt/" ".swp" ".subversion/" ".ssh/" ".spyder2/" ".spyder-py3/" ".Spyder/" ".spacemacs" ".sh_history" ".serverauth.50478" ".serverauth.17930" ".rstudio-desktop/" ".rnd" ".Rhistory" ".Rapp.history" ".QtWebEngineProcess/" ".qt/" ".profile.pysave" ".profile-anaconda.bak" ".profile" ".plotly/" ".oracle_jre_usage/" ".Open Inventor/" ".onlineLog" ".oh-my-zsh/" ".offlineimaprc" ".offlineimap/" ".octave_packages" ".octave_hist" ".nx/" ".newsrc-dribble" ".mu/" ".mplayer/" ".MCTranscodingSDK/" ".mcrCache7.11/" ".matplotlib/" ".matlab/" ".Mail/" ".local/" ".jupyter/" ".ipython/" ".idlerc/" ".globusonline/" ".flexlmrc" ".enstaller4rc" ".emacs~" ".emacs.d/" ".DS_Store" ".dropbox/" ".cups/" ".continuum/" ".config/" ".condarc" ".condamanager/" ".conda/" ".CFUserTextEncoding" ".canopy/" ".cache/" ".bashrc~" ".bashrc" ".bash_sessions/" ".astropy/" ".anaconda/" ".account" "../" "./")
+
+ ("/Users/liw17/Documents/NoMachine/" (22644 5623 0 0) "helix.nih.gov.nxs" "felix.nimh.nih.gov.nxs" "Connection to ai-submit1.niaid.nih.gov.nxs" "biowulf.nih.gov.nxs" "../" "./")
+
+ ("/Users/liw17/Documents/" (22655 34942 0 0) "~$tested antibodies compatible with Ce3D.xlsx" "~$chemical screen-05-23-16.xlsx" "WebEx/" "vtkpython/" "sequential stain.pptx" "projectschedulepaper.org" "Presentation2.pptx" "Presentation2-1.pptx" "ParaViewTutorial51.pdf" "NoMachine/" "newCD3-594-red--CD4-647-magenta--CD8-488-green--B220-br510-cyan-lyve-1-570-white--04--13--15.mp4" "Microsoft User Data/" "matlabrelated/" "matlab01-09-17.mat" "matlab-VTK-movie1.mov" "matlab-vtK/" "MATLAB/" "Fixation with PLP.doc" "fastxlicense.txt" "emacslog.txt" "December MSR -Weizhe Li.doc" "cylinder.py" "CX3CR1-GFP.pptx" "CF-5 (Converted).mov" "CF-08-13-15.mov" "Bioimaging.xmind" "B220-Cyan;CD31-yellow;CD8-green;Lyve-1-blue;CD169-red.mov" "Assignment.doc" "5-Others/" "4-MSC/" "3-Backup/" "2-Softwares/" "1-Science/" "1-3.py" "01-12-17.tex" "01-12-17.ddf" "01-09-17.pptx" "01-06-17.pptx" ".localized" ".lightworks.thereCanBeOnlyOne" ".DS_Store" "../" "./")
+
+ ("/Users/" (22351 20200 0 0) "sjones/" "Shared/" "nifs/" "liw17/" "belism/" ".localized" "../" "./")
+
+ ("/Users/liw17/.emacs.d/" (22636 9398 0 0) "tests/" "spacemacs.mk" "spacemacs-master/" "README.md" "private/" "news/" "layers/" "init.el" "elpa/" "doc/" "core/" "CONTRIBUTING.org" "COMMUNITY.org" "CHANGELOG.org" "assets/" ".cache/" "../" "./")
+
+ ("/Users/liw17/.emacs.d/elpa/" (22636 9472 0 0) "ws-butler-20160913.1902/" "window-numbering-20160809.1110/" "which-key-20161222.1221/" "volatile-highlights-20160611.1855/" "vi-tilde-fringe-20141027.1942/" "uuidgen-20140918.1601/" "use-package-20161222.903/" "undo-tree-20161012.701/" "toc-org-20161004.320/" "spinner-1.7.3/" "spacemacs-theme-20161217.515/" "spaceline-20170102.59/" "smartparens-20170101.605/" "seq-2.19/" "s-20160928.636/" "restart-emacs-20161108.2239/" "request-20161221.1711/" "rainbow-delimiters-20160430.2358/" "quelpa-20160818.2249/" "projectile-20161229.44/" "powerline-20161121.2320/" "popwin-20150315.600/" "popup-20160709.729/" "pkg-info-20150517.443/" "persp-mode-20161226.518/" "pcre2el-20161120.1303/" "parent-mode-20150824.1600/" "paradox-20161117.502/" "packed-20160523.600/" "package-build-20161014.2251/" "org-plus-contrib-20161224/" "org-bullets-20140918.1137/" "open-junk-file-20161210.314/" "neotree-20161228.1739/" "move-text-20170101.125/" "macrostep-20161120.1306/" "lorem-ipsum-20140911.1408/" "linum-relative-20160510.118/" "link-hint-20161216.857/" "let-alist-1.0.4/" "info+-20170101.1030/" "indent-guide-20161226.2332/" "iedit-20161228.2111/" "ido-vertical-mode-20160429.1037/" "hydra-20161204.505/" "hungry-delete-20161128.2238/" "hl-todo-20161102.1337/" "highlight-parentheses-20151107.2316/" "highlight-numbers-20160717.1228/" "highlight-indentation-20161012.209/" "highlight-20170101.1010/" "hide-comnt-20170101.1008/" "help-fns+-20170101.959/" "helm-themes-20160917.2245/" "helm-swoop-20160619.953/" "helm-projectile-20161213.2311/" "helm-mode-manager-20151124.138/" "helm-make-20161109.1107/" "helm-flx-20161229.1056/" "helm-descbinds-20160916.713/" "helm-core-20170103.444/" "helm-ag-20161203.523/" "helm-20170103.444/" "goto-chg-20131228.659/" "google-translate-20161206.1408/" "golden-ratio-20150819.420/" "flx-ido-20151030.1112/" "flx-20151030.1112/" "fill-column-indicator-20151030.1233/" "fancy-battery-20150101.404/" "f-20161002.800/" "eyebrowse-20161226.1438/" "expand-region-20161122.50/" "exec-path-from-shell-20161229.1338/" "evil-visualstar-20160222.1648/" "evil-visual-mark-mode-20150202.1000/" "evil-unimpaired-0.1pre0.20170103.172545/" "evil-tutor-20150102.2250/" "evil-surround-20161029.606/" "evil-search-highlight-persist-20160912.807/" "evil-numbers-20140606.551/" "evil-nerd-commenter-20161031.409/" "evil-mc-20161229.1224/" "evil-matchit-20161130.454/" "evil-lisp-state-20160403.1948/" "evil-indent-plus-20151109.1106/" "evil-iedit-state-20160905.1908/" "evil-exchange-20160812.843/" "evil-escape-20160607.1015/" "evil-ediff-20160821.1950/" "evil-args-20140329.1429/" "evil-anzu-20150124.1609/" "evil-20160827.1510/" "eval-sexp-fu-20131230.1351/" "epl-20150517.433/" "elisp-slime-nav-20160128.1109/" "dumb-jump-20161218.110/" "diminish-20151215.915/" "define-word-20150709.1223/" "dash-20161121.55/" "column-enforce-mode-20161020.434/" "clean-aindent-mode-20150816.2029/" "bracketed-paste-20160407.1648/" "bind-map-20161207.711/" "bind-key-20161218.1520/" "avy-20160814.250/" "auto-highlight-symbol-20130313.243/" "auto-compile-20160711.1012/" "async-20161103.1036/" "archives/" "anzu-20161017.907/" "aggressive-indent-20161201.1001/" "adaptive-wrap-0.5/" "ace-window-20161018.1624/" "ace-link-20161203.1059/" "ace-jump-helm-line-20160918.1136/" "../" "./")
+
+ ("/Users/liw17/.emacs.d/elpa/ws-butler-20160913.1902/" (22636 9472 0 0) "ws-butler.elc" "ws-butler.el" "ws-butler-pkg.elc" "ws-butler-pkg.el" "ws-butler-autoloads.el" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
